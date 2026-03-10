@@ -1,0 +1,48 @@
+# ============================================================
+# ExperimentLab — Configuration
+# ============================================================
+# Single source of truth for all parameters.
+# No magic numbers in code — everything referenced from here.
+
+simulation:
+  seed: 42
+  n_units: 5000           # default users/units for A/B sim
+  n_geo_units: 50         # default number of markets/cities
+  n_time_periods: 90      # days of time series data
+  true_effect: 0.05       # default true treatment effect (5pp lift)
+  baseline_rate: 0.10     # default baseline conversion rate
+  noise_std: 0.02         # noise in outcomes
+
+experiment:
+  default_alpha: 0.05
+  default_power: 0.80
+  default_mde: 0.02       # 2pp minimum detectable effect
+  srm_threshold: 0.01     # p-value below which SRM is flagged
+  sequential_looks: 5     # number of interim analyses
+
+geo:
+  min_markets_per_arm: 5
+  balance_tolerance: 0.15  # max acceptable covariate imbalance
+  synthetic_control:
+    max_donors: 20
+    pre_periods_fraction: 0.7  # fraction of time used for fitting
+
+bayesian:
+  prior_alpha: 1          # Beta prior: alpha (uninformative)
+  prior_beta: 1           # Beta prior: beta (uninformative)
+  n_posterior_samples: 10000
+  rope_width: 0.005       # region of practical equivalence
+
+diff_in_diff:
+  min_pre_periods: 10
+  min_post_periods: 5
+  robust_se: true         # cluster-robust standard errors
+
+privacy:
+  k_anonymity_threshold: 5
+  dp_epsilon: 1.0         # differential privacy budget
+  dp_delta: 1.0e-5
+
+nlp:
+  sentiment_model: "vader"  # lightweight, no GPU needed
+  min_reviews: 10           # minimum reviews for analysis

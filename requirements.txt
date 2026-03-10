@@ -1,0 +1,16 @@
+# Core
+pandas>=2.0
+numpy>=1.24
+scipy>=1.11
+pyyaml>=6.0
+
+# NLP
+vaderSentiment>=3.3
+
+# Dashboard
+streamlit>=1.32
+plotly>=5.18
+
+# Dev / testing
+pytest>=7.4
+pytest-cov>=4.1
