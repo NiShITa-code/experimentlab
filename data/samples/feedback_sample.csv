@@ -1,0 +1,1001 @@
+review_id,period,text,rating
+R00000,pre,Too many ads and interruptions,1
+R00001,pre,"Does what it says, no more no less",3
+R00002,pre,Very slow and buggy,1
+R00003,pre,"Love the new features, much improved",5
+R00004,pre,Keeps logging me out randomly,2
+R00005,pre,"Does what it says, no more no less",3
+R00006,pre,Decent app for basic needs,3
+R00007,pre,Average experience overall,3
+R00008,pre,Best app in its category,4
+R00009,pre,Not worth the subscription price,1
+R00010,pre,App crashes frequently,1
+R00011,pre,Average experience overall,3
+R00012,pre,Easy to use and intuitive,5
+R00013,pre,Excellent customer support,4
+R00014,pre,Decent app for basic needs,3
+R00015,pre,Keeps logging me out randomly,1
+R00016,pre,"Love the new features, much improved",4
+R00017,pre,Very satisfied with the update,5
+R00018,pre,Decent app for basic needs,3
+R00019,pre,Very slow and buggy,1
+R00020,pre,Fast and reliable service,5
+R00021,pre,Easy to use and intuitive,4
+R00022,pre,Some good features but room for improvement,3
+R00023,pre,Decent app for basic needs,3
+R00024,pre,Easy to use and intuitive,5
+R00025,pre,Not worth the subscription price,2
+R00026,pre,Too many ads and interruptions,1
+R00027,pre,Decent app for basic needs,3
+R00028,pre,Decent app for basic needs,3
+R00029,pre,Keeps logging me out randomly,1
+R00030,pre,Very satisfied with the update,5
+R00031,pre,Works perfectly every time,4
+R00032,pre,Very slow and buggy,1
+R00033,pre,Average experience overall,3
+R00034,pre,Decent app for basic needs,3
+R00035,pre,App crashes frequently,1
+R00036,pre,"It works okay, nothing special",3
+R00037,pre,"Great experience, very smooth",5
+R00038,pre,Keeps logging me out randomly,2
+R00039,pre,"Love the new features, much improved",4
+R00040,pre,Some good features but room for improvement,3
+R00041,pre,"Does what it says, no more no less",3
+R00042,pre,Average experience overall,3
+R00043,pre,Very satisfied with the update,4
+R00044,pre,Average experience overall,3
+R00045,pre,Very satisfied with the update,4
+R00046,pre,"Does what it says, no more no less",3
+R00047,pre,Some good features but room for improvement,3
+R00048,pre,Terrible user experience,1
+R00049,pre,Some good features but room for improvement,3
+R00050,pre,Average experience overall,3
+R00051,pre,Excellent customer support,4
+R00052,pre,Very satisfied with the update,4
+R00053,pre,Easy to use and intuitive,4
+R00054,pre,Works perfectly every time,4
+R00055,pre,Too many ads and interruptions,2
+R00056,pre,"Does what it says, no more no less",3
+R00057,pre,Best app in its category,4
+R00058,pre,Decent app for basic needs,3
+R00059,pre,Some good features but room for improvement,3
+R00060,pre,Decent app for basic needs,3
+R00061,pre,"Does what it says, no more no less",3
+R00062,pre,Best app in its category,5
+R00063,pre,Customer support is unhelpful,2
+R00064,pre,Not worth the subscription price,1
+R00065,pre,"Confusing interface, hard to navigate",2
+R00066,pre,Not worth the subscription price,1
+R00067,pre,"Love the new features, much improved",5
+R00068,pre,Best app in its category,4
+R00069,pre,Not worth the subscription price,2
+R00070,pre,Not worth the subscription price,1
+R00071,pre,Average experience overall,3
+R00072,pre,"Confusing interface, hard to navigate",1
+R00073,pre,Keeps logging me out randomly,2
+R00074,pre,"It works okay, nothing special",3
+R00075,pre,Fast and reliable service,5
+R00076,pre,Very satisfied with the update,5
+R00077,pre,"Does what it says, no more no less",3
+R00078,pre,"Great experience, very smooth",4
+R00079,pre,Average experience overall,3
+R00080,pre,"Confusing interface, hard to navigate",1
+R00081,pre,App crashes frequently,1
+R00082,pre,"Does what it says, no more no less",3
+R00083,pre,Keeps logging me out randomly,2
+R00084,pre,Easy to use and intuitive,4
+R00085,pre,Some good features but room for improvement,3
+R00086,pre,Excellent customer support,5
+R00087,pre,Very slow and buggy,2
+R00088,pre,"Confusing interface, hard to navigate",2
+R00089,pre,"It works okay, nothing special",3
+R00090,pre,Not worth the subscription price,2
+R00091,pre,Easy to use and intuitive,5
+R00092,pre,Some good features but room for improvement,3
+R00093,pre,Some good features but room for improvement,3
+R00094,pre,"Confusing interface, hard to navigate",2
+R00095,pre,Average experience overall,3
+R00096,pre,Some good features but room for improvement,3
+R00097,pre,App crashes frequently,2
+R00098,pre,Average experience overall,3
+R00099,pre,Easy to use and intuitive,5
+R00100,pre,"It works okay, nothing special",3
+R00101,pre,App crashes frequently,2
+R00102,pre,Decent app for basic needs,3
+R00103,pre,Keeps logging me out randomly,1
+R00104,pre,"Great experience, very smooth",4
+R00105,pre,Some good features but room for improvement,3
+R00106,pre,"It works okay, nothing special",3
+R00107,pre,Some good features but room for improvement,3
+R00108,pre,Decent app for basic needs,3
+R00109,pre,Decent app for basic needs,3
+R00110,pre,Keeps logging me out randomly,2
+R00111,pre,"It works okay, nothing special",3
+R00112,pre,Works perfectly every time,5
+R00113,pre,Not worth the subscription price,1
+R00114,pre,"It works okay, nothing special",3
+R00115,pre,Easy to use and intuitive,4
+R00116,pre,Keeps logging me out randomly,2
+R00117,pre,Keeps logging me out randomly,1
+R00118,pre,"It works okay, nothing special",3
+R00119,pre,Terrible user experience,1
+R00120,pre,"Does what it says, no more no less",3
+R00121,pre,Keeps logging me out randomly,1
+R00122,pre,Too many ads and interruptions,2
+R00123,pre,"It works okay, nothing special",3
+R00124,pre,Best app in its category,5
+R00125,pre,"Love the new features, much improved",5
+R00126,pre,"It works okay, nothing special",3
+R00127,pre,"Does what it says, no more no less",3
+R00128,pre,Excellent customer support,4
+R00129,pre,"Does what it says, no more no less",3
+R00130,pre,"It works okay, nothing special",3
+R00131,pre,"Confusing interface, hard to navigate",1
+R00132,pre,Decent app for basic needs,3
+R00133,pre,Best app in its category,5
+R00134,pre,Some good features but room for improvement,3
+R00135,pre,"Great experience, very smooth",5
+R00136,pre,Average experience overall,3
+R00137,pre,Average experience overall,3
+R00138,pre,Average experience overall,3
+R00139,pre,Fast and reliable service,5
+R00140,pre,Keeps logging me out randomly,1
+R00141,pre,Excellent customer support,5
+R00142,pre,Very slow and buggy,1
+R00143,pre,Very slow and buggy,1
+R00144,pre,Decent app for basic needs,3
+R00145,pre,App crashes frequently,2
+R00146,pre,"It works okay, nothing special",3
+R00147,pre,Excellent customer support,5
+R00148,pre,"Love the new features, much improved",4
+R00149,pre,Fast and reliable service,5
+R00150,pre,"Confusing interface, hard to navigate",2
+R00151,pre,Very slow and buggy,1
+R00152,pre,Average experience overall,3
+R00153,pre,"It works okay, nothing special",3
+R00154,pre,Excellent customer support,4
+R00155,pre,Customer support is unhelpful,1
+R00156,pre,Too many ads and interruptions,2
+R00157,pre,Best app in its category,4
+R00158,pre,Best app in its category,5
+R00159,pre,"Confusing interface, hard to navigate",1
+R00160,pre,Decent app for basic needs,3
+R00161,pre,Fast and reliable service,5
+R00162,pre,Some good features but room for improvement,3
+R00163,pre,Some good features but room for improvement,3
+R00164,pre,"Confusing interface, hard to navigate",2
+R00165,pre,Best app in its category,5
+R00166,pre,"It works okay, nothing special",3
+R00167,pre,"It works okay, nothing special",3
+R00168,pre,"Great experience, very smooth",4
+R00169,pre,Excellent customer support,5
+R00170,pre,"Does what it says, no more no less",3
+R00171,pre,Works perfectly every time,4
+R00172,pre,"Does what it says, no more no less",3
+R00173,pre,Some good features but room for improvement,3
+R00174,pre,Works perfectly every time,4
+R00175,pre,"It works okay, nothing special",3
+R00176,pre,Customer support is unhelpful,1
+R00177,pre,Excellent customer support,5
+R00178,pre,"Does what it says, no more no less",3
+R00179,pre,Very slow and buggy,2
+R00180,pre,"Confusing interface, hard to navigate",2
+R00181,pre,Excellent customer support,4
+R00182,pre,Very slow and buggy,2
+R00183,pre,Average experience overall,3
+R00184,pre,Fast and reliable service,5
+R00185,pre,"It works okay, nothing special",3
+R00186,pre,Too many ads and interruptions,2
+R00187,pre,Average experience overall,3
+R00188,pre,Works perfectly every time,5
+R00189,pre,Decent app for basic needs,3
+R00190,pre,Customer support is unhelpful,1
+R00191,pre,Terrible user experience,1
+R00192,pre,Some good features but room for improvement,3
+R00193,pre,Average experience overall,3
+R00194,pre,Best app in its category,4
+R00195,pre,Excellent customer support,5
+R00196,pre,Fast and reliable service,4
+R00197,pre,Very slow and buggy,2
+R00198,pre,Very slow and buggy,2
+R00199,pre,Terrible user experience,1
+R00200,pre,Very slow and buggy,1
+R00201,pre,Terrible user experience,1
+R00202,pre,"Great experience, very smooth",4
+R00203,pre,Decent app for basic needs,3
+R00204,pre,"Great experience, very smooth",5
+R00205,pre,"It works okay, nothing special",3
+R00206,pre,Decent app for basic needs,3
+R00207,pre,"Confusing interface, hard to navigate",2
+R00208,pre,Not worth the subscription price,2
+R00209,pre,"It works okay, nothing special",3
+R00210,pre,"It works okay, nothing special",3
+R00211,pre,Excellent customer support,4
+R00212,pre,Customer support is unhelpful,2
+R00213,pre,Too many ads and interruptions,1
+R00214,pre,Easy to use and intuitive,5
+R00215,pre,Some good features but room for improvement,3
+R00216,pre,Very satisfied with the update,5
+R00217,pre,Decent app for basic needs,3
+R00218,pre,"Confusing interface, hard to navigate",2
+R00219,pre,Terrible user experience,2
+R00220,pre,Terrible user experience,1
+R00221,pre,"It works okay, nothing special",3
+R00222,pre,Best app in its category,5
+R00223,pre,Average experience overall,3
+R00224,pre,"Confusing interface, hard to navigate",1
+R00225,pre,Very slow and buggy,1
+R00226,pre,Fast and reliable service,5
+R00227,pre,"Does what it says, no more no less",3
+R00228,pre,"Does what it says, no more no less",3
+R00229,pre,"Great experience, very smooth",5
+R00230,pre,Average experience overall,3
+R00231,pre,Best app in its category,5
+R00232,pre,"Does what it says, no more no less",3
+R00233,pre,Customer support is unhelpful,1
+R00234,pre,"It works okay, nothing special",3
+R00235,pre,Customer support is unhelpful,2
+R00236,pre,Some good features but room for improvement,3
+R00237,pre,Some good features but room for improvement,3
+R00238,pre,"Love the new features, much improved",4
+R00239,pre,Too many ads and interruptions,1
+R00240,pre,Not worth the subscription price,2
+R00241,pre,"Does what it says, no more no less",3
+R00242,pre,"It works okay, nothing special",3
+R00243,pre,Decent app for basic needs,3
+R00244,pre,Decent app for basic needs,3
+R00245,pre,Works perfectly every time,4
+R00246,pre,Excellent customer support,5
+R00247,pre,Works perfectly every time,4
+R00248,pre,Best app in its category,5
+R00249,pre,Terrible user experience,2
+R00250,pre,"Love the new features, much improved",4
+R00251,pre,Average experience overall,3
+R00252,pre,"Great experience, very smooth",5
+R00253,pre,"Great experience, very smooth",4
+R00254,pre,Some good features but room for improvement,3
+R00255,pre,"It works okay, nothing special",3
+R00256,pre,Average experience overall,3
+R00257,pre,Decent app for basic needs,3
+R00258,pre,Best app in its category,5
+R00259,pre,Easy to use and intuitive,5
+R00260,pre,Customer support is unhelpful,2
+R00261,pre,Best app in its category,4
+R00262,pre,"Love the new features, much improved",5
+R00263,pre,"Great experience, very smooth",4
+R00264,pre,Too many ads and interruptions,2
+R00265,pre,Best app in its category,5
+R00266,pre,Excellent customer support,5
+R00267,pre,Too many ads and interruptions,1
+R00268,pre,Average experience overall,3
+R00269,pre,Average experience overall,3
+R00270,pre,Too many ads and interruptions,1
+R00271,pre,Not worth the subscription price,1
+R00272,pre,"Confusing interface, hard to navigate",1
+R00273,pre,Very slow and buggy,1
+R00274,pre,Terrible user experience,1
+R00275,pre,App crashes frequently,2
+R00276,pre,Very satisfied with the update,4
+R00277,pre,Very satisfied with the update,5
+R00278,pre,"Does what it says, no more no less",3
+R00279,pre,Some good features but room for improvement,3
+R00280,pre,Too many ads and interruptions,1
+R00281,pre,Average experience overall,3
+R00282,pre,Too many ads and interruptions,2
+R00283,pre,"Great experience, very smooth",4
+R00284,pre,Easy to use and intuitive,5
+R00285,pre,Average experience overall,3
+R00286,pre,Keeps logging me out randomly,1
+R00287,pre,Average experience overall,3
+R00288,pre,Terrible user experience,1
+R00289,pre,App crashes frequently,2
+R00290,pre,Some good features but room for improvement,3
+R00291,pre,Keeps logging me out randomly,1
+R00292,pre,Very satisfied with the update,4
+R00293,pre,Average experience overall,3
+R00294,pre,Decent app for basic needs,3
+R00295,pre,Average experience overall,3
+R00296,pre,Not worth the subscription price,1
+R00297,pre,"Confusing interface, hard to navigate",2
+R00298,pre,Not worth the subscription price,1
+R00299,pre,Decent app for basic needs,3
+R00300,pre,Fast and reliable service,4
+R00301,pre,"Does what it says, no more no less",3
+R00302,pre,Works perfectly every time,4
+R00303,pre,Customer support is unhelpful,2
+R00304,pre,Very slow and buggy,2
+R00305,pre,Too many ads and interruptions,2
+R00306,pre,Some good features but room for improvement,3
+R00307,pre,"Great experience, very smooth",4
+R00308,pre,Very satisfied with the update,4
+R00309,pre,Works perfectly every time,5
+R00310,pre,Works perfectly every time,4
+R00311,pre,Some good features but room for improvement,3
+R00312,pre,Keeps logging me out randomly,2
+R00313,pre,Some good features but room for improvement,3
+R00314,pre,Best app in its category,5
+R00315,pre,Best app in its category,5
+R00316,pre,"Great experience, very smooth",4
+R00317,pre,Very slow and buggy,2
+R00318,pre,Not worth the subscription price,2
+R00319,pre,"It works okay, nothing special",3
+R00320,pre,Very satisfied with the update,4
+R00321,pre,Some good features but room for improvement,3
+R00322,pre,"Does what it says, no more no less",3
+R00323,pre,Easy to use and intuitive,4
+R00324,pre,"Love the new features, much improved",4
+R00325,pre,Average experience overall,3
+R00326,pre,Average experience overall,3
+R00327,pre,Some good features but room for improvement,3
+R00328,pre,Very satisfied with the update,4
+R00329,pre,Some good features but room for improvement,3
+R00330,pre,Too many ads and interruptions,2
+R00331,pre,Terrible user experience,1
+R00332,pre,"Great experience, very smooth",4
+R00333,pre,Very slow and buggy,1
+R00334,pre,"Confusing interface, hard to navigate",2
+R00335,pre,Customer support is unhelpful,1
+R00336,pre,Decent app for basic needs,3
+R00337,pre,Very slow and buggy,1
+R00338,pre,Average experience overall,3
+R00339,pre,Very satisfied with the update,5
+R00340,pre,Keeps logging me out randomly,2
+R00341,pre,Terrible user experience,2
+R00342,pre,Excellent customer support,5
+R00343,pre,Average experience overall,3
+R00344,pre,"Love the new features, much improved",4
+R00345,pre,App crashes frequently,1
+R00346,pre,Best app in its category,5
+R00347,pre,Keeps logging me out randomly,2
+R00348,pre,"It works okay, nothing special",3
+R00349,pre,"Love the new features, much improved",4
+R00350,pre,Customer support is unhelpful,2
+R00351,pre,Fast and reliable service,5
+R00352,pre,Decent app for basic needs,3
+R00353,pre,Excellent customer support,4
+R00354,pre,Not worth the subscription price,1
+R00355,pre,Average experience overall,3
+R00356,pre,Keeps logging me out randomly,2
+R00357,pre,Easy to use and intuitive,4
+R00358,pre,Excellent customer support,5
+R00359,pre,App crashes frequently,2
+R00360,pre,Very satisfied with the update,4
+R00361,pre,"Does what it says, no more no less",3
+R00362,pre,"Confusing interface, hard to navigate",2
+R00363,pre,Terrible user experience,1
+R00364,pre,Keeps logging me out randomly,2
+R00365,pre,Very slow and buggy,2
+R00366,pre,Works perfectly every time,5
+R00367,pre,Very satisfied with the update,4
+R00368,pre,"Great experience, very smooth",4
+R00369,pre,Not worth the subscription price,1
+R00370,pre,"It works okay, nothing special",3
+R00371,pre,Decent app for basic needs,3
+R00372,pre,"Does what it says, no more no less",3
+R00373,pre,"It works okay, nothing special",3
+R00374,pre,"Love the new features, much improved",4
+R00375,pre,Decent app for basic needs,3
+R00376,pre,Some good features but room for improvement,3
+R00377,pre,Decent app for basic needs,3
+R00378,pre,Best app in its category,4
+R00379,pre,Some good features but room for improvement,3
+R00380,pre,Decent app for basic needs,3
+R00381,pre,Very slow and buggy,1
+R00382,pre,Some good features but room for improvement,3
+R00383,pre,"It works okay, nothing special",3
+R00384,pre,"It works okay, nothing special",3
+R00385,pre,"Great experience, very smooth",4
+R00386,pre,Not worth the subscription price,1
+R00387,pre,Some good features but room for improvement,3
+R00388,pre,Not worth the subscription price,2
+R00389,pre,Terrible user experience,2
+R00390,pre,Decent app for basic needs,3
+R00391,pre,"Does what it says, no more no less",3
+R00392,pre,Not worth the subscription price,1
+R00393,pre,Too many ads and interruptions,2
+R00394,pre,"Does what it says, no more no less",3
+R00395,pre,Very satisfied with the update,4
+R00396,pre,Excellent customer support,5
+R00397,pre,Some good features but room for improvement,3
+R00398,pre,"Does what it says, no more no less",3
+R00399,pre,Easy to use and intuitive,4
+R00400,pre,Works perfectly every time,4
+R00401,pre,"Does what it says, no more no less",3
+R00402,pre,Customer support is unhelpful,2
+R00403,pre,Some good features but room for improvement,3
+R00404,pre,Some good features but room for improvement,3
+R00405,pre,Very slow and buggy,1
+R00406,pre,Customer support is unhelpful,1
+R00407,pre,Average experience overall,3
+R00408,pre,Decent app for basic needs,3
+R00409,pre,Average experience overall,3
+R00410,pre,Decent app for basic needs,3
+R00411,pre,Customer support is unhelpful,2
+R00412,pre,"Does what it says, no more no less",3
+R00413,pre,Average experience overall,3
+R00414,pre,Average experience overall,3
+R00415,pre,"Love the new features, much improved",4
+R00416,pre,"Great experience, very smooth",5
+R00417,pre,"It works okay, nothing special",3
+R00418,pre,Best app in its category,5
+R00419,pre,"It works okay, nothing special",3
+R00420,pre,Not worth the subscription price,1
+R00421,pre,Very satisfied with the update,4
+R00422,pre,Too many ads and interruptions,1
+R00423,pre,"Great experience, very smooth",4
+R00424,pre,Some good features but room for improvement,3
+R00425,pre,App crashes frequently,2
+R00426,pre,Average experience overall,3
+R00427,pre,Terrible user experience,2
+R00428,pre,Some good features but room for improvement,3
+R00429,pre,"Love the new features, much improved",4
+R00430,pre,"Great experience, very smooth",4
+R00431,pre,Best app in its category,5
+R00432,pre,Too many ads and interruptions,1
+R00433,pre,Fast and reliable service,5
+R00434,pre,"Great experience, very smooth",4
+R00435,pre,"It works okay, nothing special",3
+R00436,pre,Excellent customer support,5
+R00437,pre,Best app in its category,5
+R00438,pre,App crashes frequently,2
+R00439,pre,Very satisfied with the update,4
+R00440,pre,"Love the new features, much improved",5
+R00441,pre,Best app in its category,4
+R00442,pre,Excellent customer support,5
+R00443,pre,Very slow and buggy,1
+R00444,pre,Average experience overall,3
+R00445,pre,Customer support is unhelpful,1
+R00446,pre,Not worth the subscription price,1
+R00447,pre,"Great experience, very smooth",5
+R00448,pre,Some good features but room for improvement,3
+R00449,pre,Very slow and buggy,1
+R00450,pre,Decent app for basic needs,3
+R00451,pre,Decent app for basic needs,3
+R00452,pre,"Does what it says, no more no less",3
+R00453,pre,App crashes frequently,1
+R00454,pre,Very satisfied with the update,4
+R00455,pre,Keeps logging me out randomly,2
+R00456,pre,Too many ads and interruptions,1
+R00457,pre,Decent app for basic needs,3
+R00458,pre,Fast and reliable service,4
+R00459,pre,Excellent customer support,5
+R00460,pre,Some good features but room for improvement,3
+R00461,pre,Decent app for basic needs,3
+R00462,pre,"Does what it says, no more no less",3
+R00463,pre,"Confusing interface, hard to navigate",2
+R00464,pre,Fast and reliable service,4
+R00465,pre,"Does what it says, no more no less",3
+R00466,pre,Best app in its category,4
+R00467,pre,Customer support is unhelpful,2
+R00468,pre,"Does what it says, no more no less",3
+R00469,pre,Very slow and buggy,1
+R00470,pre,"Confusing interface, hard to navigate",1
+R00471,pre,Best app in its category,4
+R00472,pre,Not worth the subscription price,1
+R00473,pre,Customer support is unhelpful,1
+R00474,pre,Decent app for basic needs,3
+R00475,pre,Fast and reliable service,5
+R00476,pre,Not worth the subscription price,1
+R00477,pre,"It works okay, nothing special",3
+R00478,pre,App crashes frequently,2
+R00479,pre,Average experience overall,3
+R00480,pre,"It works okay, nothing special",3
+R00481,pre,"Love the new features, much improved",5
+R00482,pre,Average experience overall,3
+R00483,pre,Average experience overall,3
+R00484,pre,"Love the new features, much improved",5
+R00485,pre,"Does what it says, no more no less",3
+R00486,pre,"It works okay, nothing special",3
+R00487,pre,"Great experience, very smooth",4
+R00488,pre,Average experience overall,3
+R00489,pre,"Does what it says, no more no less",3
+R00490,pre,Best app in its category,4
+R00491,pre,Some good features but room for improvement,3
+R00492,pre,Customer support is unhelpful,1
+R00493,pre,Average experience overall,3
+R00494,pre,Average experience overall,3
+R00495,pre,Not worth the subscription price,2
+R00496,pre,Very slow and buggy,2
+R00497,pre,"It works okay, nothing special",3
+R00498,pre,Easy to use and intuitive,4
+R00499,pre,Best app in its category,4
+R00500,post,Works perfectly every time,5
+R00501,post,"Confusing interface, hard to navigate",2
+R00502,post,Very slow and buggy,1
+R00503,post,Not worth the subscription price,2
+R00504,post,"It works okay, nothing special",3
+R00505,post,Very satisfied with the update,5
+R00506,post,Easy to use and intuitive,4
+R00507,post,Some good features but room for improvement,3
+R00508,post,Very slow and buggy,1
+R00509,post,"Does what it says, no more no less",3
+R00510,post,Works perfectly every time,4
+R00511,post,Best app in its category,4
+R00512,post,App crashes frequently,1
+R00513,post,Fast and reliable service,4
+R00514,post,"Love the new features, much improved",5
+R00515,post,Easy to use and intuitive,4
+R00516,post,"Love the new features, much improved",4
+R00517,post,"It works okay, nothing special",3
+R00518,post,"It works okay, nothing special",3
+R00519,post,Excellent customer support,5
+R00520,post,"Does what it says, no more no less",3
+R00521,post,"Does what it says, no more no less",3
+R00522,post,Not worth the subscription price,2
+R00523,post,"Great experience, very smooth",5
+R00524,post,Fast and reliable service,4
+R00525,post,Average experience overall,3
+R00526,post,App crashes frequently,1
+R00527,post,Not worth the subscription price,2
+R00528,post,Very satisfied with the update,4
+R00529,post,Some good features but room for improvement,3
+R00530,post,Average experience overall,3
+R00531,post,Best app in its category,5
+R00532,post,Decent app for basic needs,3
+R00533,post,Average experience overall,3
+R00534,post,Very satisfied with the update,4
+R00535,post,Keeps logging me out randomly,1
+R00536,post,Too many ads and interruptions,2
+R00537,post,Some good features but room for improvement,3
+R00538,post,Very satisfied with the update,4
+R00539,post,Very satisfied with the update,5
+R00540,post,Best app in its category,5
+R00541,post,Fast and reliable service,4
+R00542,post,Average experience overall,3
+R00543,post,Average experience overall,3
+R00544,post,Fast and reliable service,5
+R00545,post,Very satisfied with the update,4
+R00546,post,Works perfectly every time,5
+R00547,post,Decent app for basic needs,3
+R00548,post,"Great experience, very smooth",4
+R00549,post,Easy to use and intuitive,4
+R00550,post,Customer support is unhelpful,1
+R00551,post,Excellent customer support,4
+R00552,post,Easy to use and intuitive,4
+R00553,post,"It works okay, nothing special",3
+R00554,post,Excellent customer support,5
+R00555,post,Easy to use and intuitive,5
+R00556,post,"Great experience, very smooth",5
+R00557,post,Excellent customer support,4
+R00558,post,"Great experience, very smooth",4
+R00559,post,Customer support is unhelpful,1
+R00560,post,"Does what it says, no more no less",3
+R00561,post,Easy to use and intuitive,5
+R00562,post,Some good features but room for improvement,3
+R00563,post,Average experience overall,3
+R00564,post,Easy to use and intuitive,5
+R00565,post,Easy to use and intuitive,4
+R00566,post,Too many ads and interruptions,1
+R00567,post,Fast and reliable service,4
+R00568,post,Fast and reliable service,4
+R00569,post,"Love the new features, much improved",5
+R00570,post,Best app in its category,5
+R00571,post,"It works okay, nothing special",3
+R00572,post,Easy to use and intuitive,5
+R00573,post,"Love the new features, much improved",5
+R00574,post,Fast and reliable service,5
+R00575,post,Some good features but room for improvement,3
+R00576,post,"Does what it says, no more no less",3
+R00577,post,Very satisfied with the update,4
+R00578,post,Not worth the subscription price,1
+R00579,post,"Great experience, very smooth",5
+R00580,post,Easy to use and intuitive,4
+R00581,post,"It works okay, nothing special",3
+R00582,post,Average experience overall,3
+R00583,post,"It works okay, nothing special",3
+R00584,post,Terrible user experience,2
+R00585,post,Very satisfied with the update,5
+R00586,post,Best app in its category,5
+R00587,post,Excellent customer support,4
+R00588,post,Best app in its category,5
+R00589,post,"Great experience, very smooth",5
+R00590,post,Works perfectly every time,5
+R00591,post,Very slow and buggy,1
+R00592,post,Fast and reliable service,5
+R00593,post,Too many ads and interruptions,1
+R00594,post,Some good features but room for improvement,3
+R00595,post,Decent app for basic needs,3
+R00596,post,Some good features but room for improvement,3
+R00597,post,Best app in its category,4
+R00598,post,Best app in its category,5
+R00599,post,"Love the new features, much improved",5
+R00600,post,Best app in its category,4
+R00601,post,"It works okay, nothing special",3
+R00602,post,Very satisfied with the update,5
+R00603,post,"Love the new features, much improved",4
+R00604,post,Average experience overall,3
+R00605,post,"Does what it says, no more no less",3
+R00606,post,Very satisfied with the update,5
+R00607,post,Excellent customer support,4
+R00608,post,"It works okay, nothing special",3
+R00609,post,Fast and reliable service,5
+R00610,post,Best app in its category,4
+R00611,post,"Love the new features, much improved",5
+R00612,post,"Great experience, very smooth",5
+R00613,post,Decent app for basic needs,3
+R00614,post,Not worth the subscription price,1
+R00615,post,Easy to use and intuitive,5
+R00616,post,Very slow and buggy,2
+R00617,post,"Great experience, very smooth",5
+R00618,post,Fast and reliable service,5
+R00619,post,Fast and reliable service,5
+R00620,post,Fast and reliable service,5
+R00621,post,"Does what it says, no more no less",3
+R00622,post,"Love the new features, much improved",4
+R00623,post,Customer support is unhelpful,1
+R00624,post,"Great experience, very smooth",5
+R00625,post,Works perfectly every time,4
+R00626,post,Very satisfied with the update,5
+R00627,post,Fast and reliable service,4
+R00628,post,Some good features but room for improvement,3
+R00629,post,Very satisfied with the update,4
+R00630,post,"Does what it says, no more no less",3
+R00631,post,Works perfectly every time,5
+R00632,post,Decent app for basic needs,3
+R00633,post,Terrible user experience,1
+R00634,post,Decent app for basic needs,3
+R00635,post,Best app in its category,4
+R00636,post,"Does what it says, no more no less",3
+R00637,post,Not worth the subscription price,1
+R00638,post,"Love the new features, much improved",4
+R00639,post,Easy to use and intuitive,5
+R00640,post,Best app in its category,4
+R00641,post,"Great experience, very smooth",5
+R00642,post,Very satisfied with the update,5
+R00643,post,Works perfectly every time,5
+R00644,post,"Great experience, very smooth",4
+R00645,post,Some good features but room for improvement,3
+R00646,post,Decent app for basic needs,3
+R00647,post,Best app in its category,5
+R00648,post,Works perfectly every time,5
+R00649,post,Decent app for basic needs,3
+R00650,post,"It works okay, nothing special",3
+R00651,post,Very satisfied with the update,4
+R00652,post,Customer support is unhelpful,2
+R00653,post,Keeps logging me out randomly,1
+R00654,post,Excellent customer support,5
+R00655,post,Fast and reliable service,5
+R00656,post,Works perfectly every time,4
+R00657,post,Best app in its category,5
+R00658,post,Very slow and buggy,2
+R00659,post,Some good features but room for improvement,3
+R00660,post,App crashes frequently,2
+R00661,post,Some good features but room for improvement,3
+R00662,post,Works perfectly every time,4
+R00663,post,"Great experience, very smooth",5
+R00664,post,Works perfectly every time,5
+R00665,post,Customer support is unhelpful,1
+R00666,post,Keeps logging me out randomly,2
+R00667,post,Fast and reliable service,4
+R00668,post,Best app in its category,5
+R00669,post,Easy to use and intuitive,5
+R00670,post,Fast and reliable service,5
+R00671,post,Not worth the subscription price,2
+R00672,post,Average experience overall,3
+R00673,post,Easy to use and intuitive,4
+R00674,post,"Does what it says, no more no less",3
+R00675,post,Not worth the subscription price,1
+R00676,post,"It works okay, nothing special",3
+R00677,post,Keeps logging me out randomly,2
+R00678,post,Not worth the subscription price,2
+R00679,post,"Love the new features, much improved",4
+R00680,post,Easy to use and intuitive,5
+R00681,post,Fast and reliable service,5
+R00682,post,"Love the new features, much improved",4
+R00683,post,Fast and reliable service,5
+R00684,post,Excellent customer support,5
+R00685,post,Best app in its category,4
+R00686,post,Average experience overall,3
+R00687,post,Excellent customer support,5
+R00688,post,"Does what it says, no more no less",3
+R00689,post,Some good features but room for improvement,3
+R00690,post,Excellent customer support,5
+R00691,post,Too many ads and interruptions,2
+R00692,post,"Love the new features, much improved",4
+R00693,post,"Love the new features, much improved",4
+R00694,post,Excellent customer support,4
+R00695,post,Very satisfied with the update,5
+R00696,post,Best app in its category,4
+R00697,post,Works perfectly every time,5
+R00698,post,Customer support is unhelpful,2
+R00699,post,Decent app for basic needs,3
+R00700,post,"Great experience, very smooth",4
+R00701,post,Customer support is unhelpful,2
+R00702,post,Decent app for basic needs,3
+R00703,post,Average experience overall,3
+R00704,post,Average experience overall,3
+R00705,post,Average experience overall,3
+R00706,post,Decent app for basic needs,3
+R00707,post,Fast and reliable service,5
+R00708,post,"It works okay, nothing special",3
+R00709,post,Works perfectly every time,5
+R00710,post,Average experience overall,3
+R00711,post,Excellent customer support,5
+R00712,post,Best app in its category,5
+R00713,post,Excellent customer support,5
+R00714,post,"It works okay, nothing special",3
+R00715,post,"Confusing interface, hard to navigate",2
+R00716,post,App crashes frequently,1
+R00717,post,"Love the new features, much improved",4
+R00718,post,"Great experience, very smooth",5
+R00719,post,Customer support is unhelpful,1
+R00720,post,Very satisfied with the update,4
+R00721,post,Average experience overall,3
+R00722,post,Easy to use and intuitive,5
+R00723,post,Best app in its category,5
+R00724,post,Customer support is unhelpful,1
+R00725,post,Excellent customer support,5
+R00726,post,"Love the new features, much improved",4
+R00727,post,Easy to use and intuitive,4
+R00728,post,Decent app for basic needs,3
+R00729,post,Very satisfied with the update,4
+R00730,post,Terrible user experience,1
+R00731,post,Excellent customer support,5
+R00732,post,Best app in its category,5
+R00733,post,"Great experience, very smooth",4
+R00734,post,Best app in its category,4
+R00735,post,"Great experience, very smooth",4
+R00736,post,Customer support is unhelpful,2
+R00737,post,Fast and reliable service,5
+R00738,post,Not worth the subscription price,2
+R00739,post,Best app in its category,4
+R00740,post,Keeps logging me out randomly,1
+R00741,post,Very satisfied with the update,5
+R00742,post,Very satisfied with the update,5
+R00743,post,Easy to use and intuitive,5
+R00744,post,Decent app for basic needs,3
+R00745,post,Very slow and buggy,1
+R00746,post,Works perfectly every time,4
+R00747,post,Best app in its category,4
+R00748,post,Fast and reliable service,4
+R00749,post,Average experience overall,3
+R00750,post,Excellent customer support,5
+R00751,post,Fast and reliable service,5
+R00752,post,"It works okay, nothing special",3
+R00753,post,Works perfectly every time,4
+R00754,post,App crashes frequently,1
+R00755,post,Works perfectly every time,5
+R00756,post,Best app in its category,4
+R00757,post,Easy to use and intuitive,5
+R00758,post,"It works okay, nothing special",3
+R00759,post,"It works okay, nothing special",3
+R00760,post,"It works okay, nothing special",3
+R00761,post,Very satisfied with the update,4
+R00762,post,Fast and reliable service,4
+R00763,post,Decent app for basic needs,3
+R00764,post,Not worth the subscription price,2
+R00765,post,"It works okay, nothing special",3
+R00766,post,Best app in its category,4
+R00767,post,Excellent customer support,5
+R00768,post,Too many ads and interruptions,1
+R00769,post,Very slow and buggy,1
+R00770,post,Terrible user experience,2
+R00771,post,"Great experience, very smooth",4
+R00772,post,"Love the new features, much improved",5
+R00773,post,"Love the new features, much improved",4
+R00774,post,Excellent customer support,5
+R00775,post,"It works okay, nothing special",3
+R00776,post,Fast and reliable service,5
+R00777,post,Excellent customer support,5
+R00778,post,Fast and reliable service,4
+R00779,post,Fast and reliable service,5
+R00780,post,Customer support is unhelpful,2
+R00781,post,Keeps logging me out randomly,1
+R00782,post,Average experience overall,3
+R00783,post,Terrible user experience,1
+R00784,post,Some good features but room for improvement,3
+R00785,post,Very satisfied with the update,4
+R00786,post,"It works okay, nothing special",3
+R00787,post,Terrible user experience,1
+R00788,post,Best app in its category,5
+R00789,post,Excellent customer support,4
+R00790,post,Too many ads and interruptions,2
+R00791,post,Too many ads and interruptions,1
+R00792,post,Works perfectly every time,5
+R00793,post,Excellent customer support,5
+R00794,post,Best app in its category,5
+R00795,post,Some good features but room for improvement,3
+R00796,post,Easy to use and intuitive,5
+R00797,post,"It works okay, nothing special",3
+R00798,post,Very slow and buggy,2
+R00799,post,Decent app for basic needs,3
+R00800,post,Excellent customer support,4
+R00801,post,Best app in its category,5
+R00802,post,Best app in its category,4
+R00803,post,Too many ads and interruptions,2
+R00804,post,Very slow and buggy,1
+R00805,post,Keeps logging me out randomly,2
+R00806,post,Fast and reliable service,5
+R00807,post,"It works okay, nothing special",3
+R00808,post,Best app in its category,5
+R00809,post,"Love the new features, much improved",5
+R00810,post,Fast and reliable service,4
+R00811,post,Easy to use and intuitive,5
+R00812,post,Fast and reliable service,4
+R00813,post,"Love the new features, much improved",5
+R00814,post,"Does what it says, no more no less",3
+R00815,post,Works perfectly every time,4
+R00816,post,Customer support is unhelpful,1
+R00817,post,Fast and reliable service,4
+R00818,post,Best app in its category,4
+R00819,post,Fast and reliable service,5
+R00820,post,Best app in its category,5
+R00821,post,Excellent customer support,4
+R00822,post,App crashes frequently,1
+R00823,post,Decent app for basic needs,3
+R00824,post,Decent app for basic needs,3
+R00825,post,Very slow and buggy,2
+R00826,post,Excellent customer support,5
+R00827,post,"Great experience, very smooth",5
+R00828,post,Works perfectly every time,4
+R00829,post,"Great experience, very smooth",4
+R00830,post,"Great experience, very smooth",5
+R00831,post,Best app in its category,5
+R00832,post,Best app in its category,5
+R00833,post,Average experience overall,3
+R00834,post,Customer support is unhelpful,1
+R00835,post,Excellent customer support,5
+R00836,post,Easy to use and intuitive,5
+R00837,post,"Love the new features, much improved",5
+R00838,post,Easy to use and intuitive,5
+R00839,post,Very slow and buggy,2
+R00840,post,"Does what it says, no more no less",3
+R00841,post,App crashes frequently,1
+R00842,post,Excellent customer support,5
+R00843,post,Works perfectly every time,5
+R00844,post,Easy to use and intuitive,5
+R00845,post,"Does what it says, no more no less",3
+R00846,post,"Love the new features, much improved",5
+R00847,post,Easy to use and intuitive,5
+R00848,post,"It works okay, nothing special",3
+R00849,post,"Does what it says, no more no less",3
+R00850,post,Excellent customer support,5
+R00851,post,"It works okay, nothing special",3
+R00852,post,Customer support is unhelpful,2
+R00853,post,Best app in its category,5
+R00854,post,Very satisfied with the update,5
+R00855,post,"Great experience, very smooth",4
+R00856,post,"Great experience, very smooth",4
+R00857,post,"Love the new features, much improved",5
+R00858,post,Fast and reliable service,5
+R00859,post,Some good features but room for improvement,3
+R00860,post,Decent app for basic needs,3
+R00861,post,Average experience overall,3
+R00862,post,"Great experience, very smooth",5
+R00863,post,Best app in its category,4
+R00864,post,Very slow and buggy,2
+R00865,post,Terrible user experience,2
+R00866,post,Excellent customer support,4
+R00867,post,"Love the new features, much improved",5
+R00868,post,"Love the new features, much improved",5
+R00869,post,Average experience overall,3
+R00870,post,App crashes frequently,2
+R00871,post,Excellent customer support,4
+R00872,post,"It works okay, nothing special",3
+R00873,post,Not worth the subscription price,2
+R00874,post,"Love the new features, much improved",4
+R00875,post,"Great experience, very smooth",4
+R00876,post,Works perfectly every time,4
+R00877,post,"Great experience, very smooth",4
+R00878,post,Decent app for basic needs,3
+R00879,post,Decent app for basic needs,3
+R00880,post,Excellent customer support,5
+R00881,post,Easy to use and intuitive,4
+R00882,post,Too many ads and interruptions,1
+R00883,post,Customer support is unhelpful,1
+R00884,post,"Love the new features, much improved",4
+R00885,post,Average experience overall,3
+R00886,post,Excellent customer support,4
+R00887,post,"It works okay, nothing special",3
+R00888,post,"Great experience, very smooth",4
+R00889,post,Easy to use and intuitive,5
+R00890,post,Very satisfied with the update,5
+R00891,post,App crashes frequently,2
+R00892,post,Keeps logging me out randomly,1
+R00893,post,Easy to use and intuitive,5
+R00894,post,Easy to use and intuitive,5
+R00895,post,Average experience overall,3
+R00896,post,Easy to use and intuitive,4
+R00897,post,Best app in its category,4
+R00898,post,Easy to use and intuitive,5
+R00899,post,"Does what it says, no more no less",3
+R00900,post,Best app in its category,5
+R00901,post,Excellent customer support,4
+R00902,post,Excellent customer support,4
+R00903,post,"Confusing interface, hard to navigate",2
+R00904,post,Best app in its category,4
+R00905,post,Fast and reliable service,5
+R00906,post,Too many ads and interruptions,2
+R00907,post,Works perfectly every time,5
+R00908,post,"Great experience, very smooth",5
+R00909,post,Too many ads and interruptions,2
+R00910,post,Best app in its category,5
+R00911,post,Fast and reliable service,5
+R00912,post,Fast and reliable service,5
+R00913,post,"Does what it says, no more no less",3
+R00914,post,Excellent customer support,5
+R00915,post,"Does what it says, no more no less",3
+R00916,post,Works perfectly every time,4
+R00917,post,App crashes frequently,1
+R00918,post,"Does what it says, no more no less",3
+R00919,post,Fast and reliable service,5
+R00920,post,Works perfectly every time,4
+R00921,post,Average experience overall,3
+R00922,post,Excellent customer support,5
+R00923,post,"Great experience, very smooth",5
+R00924,post,Best app in its category,4
+R00925,post,Easy to use and intuitive,4
+R00926,post,Works perfectly every time,4
+R00927,post,Very satisfied with the update,4
+R00928,post,Terrible user experience,2
+R00929,post,"Great experience, very smooth",4
+R00930,post,Works perfectly every time,5
+R00931,post,Easy to use and intuitive,4
+R00932,post,Some good features but room for improvement,3
+R00933,post,Customer support is unhelpful,1
+R00934,post,Best app in its category,4
+R00935,post,Keeps logging me out randomly,2
+R00936,post,Excellent customer support,4
+R00937,post,Easy to use and intuitive,4
+R00938,post,Works perfectly every time,5
+R00939,post,Very slow and buggy,1
+R00940,post,"Great experience, very smooth",5
+R00941,post,Not worth the subscription price,1
+R00942,post,Very slow and buggy,1
+R00943,post,Fast and reliable service,5
+R00944,post,Decent app for basic needs,3
+R00945,post,Fast and reliable service,5
+R00946,post,Works perfectly every time,4
+R00947,post,Works perfectly every time,5
+R00948,post,Fast and reliable service,4
+R00949,post,Fast and reliable service,4
+R00950,post,Works perfectly every time,4
+R00951,post,Very slow and buggy,1
+R00952,post,Easy to use and intuitive,5
+R00953,post,Decent app for basic needs,3
+R00954,post,Excellent customer support,4
+R00955,post,Terrible user experience,2
+R00956,post,"It works okay, nothing special",3
+R00957,post,Very satisfied with the update,5
+R00958,post,Not worth the subscription price,1
+R00959,post,Decent app for basic needs,3
+R00960,post,Works perfectly every time,5
+R00961,post,"It works okay, nothing special",3
+R00962,post,"Does what it says, no more no less",3
+R00963,post,Average experience overall,3
+R00964,post,Very satisfied with the update,5
+R00965,post,Some good features but room for improvement,3
+R00966,post,Easy to use and intuitive,4
+R00967,post,Best app in its category,4
+R00968,post,Some good features but room for improvement,3
+R00969,post,"Love the new features, much improved",4
+R00970,post,"Confusing interface, hard to navigate",2
+R00971,post,Keeps logging me out randomly,1
+R00972,post,Fast and reliable service,5
+R00973,post,"Great experience, very smooth",5
+R00974,post,"It works okay, nothing special",3
+R00975,post,"Love the new features, much improved",5
+R00976,post,Average experience overall,3
+R00977,post,Fast and reliable service,4
+R00978,post,Some good features but room for improvement,3
+R00979,post,"Great experience, very smooth",5
+R00980,post,Decent app for basic needs,3
+R00981,post,Fast and reliable service,5
+R00982,post,Decent app for basic needs,3
+R00983,post,"It works okay, nothing special",3
+R00984,post,"It works okay, nothing special",3
+R00985,post,Keeps logging me out randomly,1
+R00986,post,Some good features but room for improvement,3
+R00987,post,Decent app for basic needs,3
+R00988,post,Easy to use and intuitive,5
+R00989,post,Some good features but room for improvement,3
+R00990,post,Excellent customer support,4
+R00991,post,Very satisfied with the update,4
+R00992,post,Excellent customer support,5
+R00993,post,Best app in its category,5
+R00994,post,Very satisfied with the update,5
+R00995,post,"Love the new features, much improved",5
+R00996,post,Fast and reliable service,4
+R00997,post,Keeps logging me out randomly,2
+R00998,post,Excellent customer support,5
+R00999,post,Customer support is unhelpful,2
