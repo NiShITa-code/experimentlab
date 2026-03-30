@@ -15,6 +15,17 @@
 
 ---
 
+<p align="center">
+  <em>Built on methods used in experimentation platforms at</em><br/>
+  <img src="https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white" alt="Google">
+  <img src="https://img.shields.io/badge/Netflix-E50914?style=flat&logo=netflix&logoColor=white" alt="Netflix">
+  <img src="https://img.shields.io/badge/Uber-000000?style=flat&logo=uber&logoColor=white" alt="Uber">
+  <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=flat&logo=microsoft&logoColor=white" alt="Microsoft">
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify">
+</p>
+
+---
+
 ## What Is This?
 
 ExperimentLab is a **complete experimentation toolkit** that covers every stage of running experiments — whether you're doing A/B tests, geo experiments, or causal studies.
@@ -145,8 +156,4 @@ pytest tests/ --cov=src --cov-report=term-missing
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for development setup, code style, and contribution areas.
-
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
+See [CONTRIBUTIN
